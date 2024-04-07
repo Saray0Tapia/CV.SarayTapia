@@ -1,6 +1,13 @@
 #Hero-Section {
-    background-image: url("../img/contractors-1.jpg");
+    background-image: url("../Assets/Img/wp7532662.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
+  }
+  h2{
+    color: black;
+  }
+
+  p{
+    color: #808080;
   }
