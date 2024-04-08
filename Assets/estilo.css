@@ -29,9 +29,13 @@
 
   #Mis-desafios{
 
-  background-color: #D8BFD8;
+  background-color: #CCCDCD;
   }
 
   h3{
     color:black;
   }
+
+.navbar{
+  background-color: #62BBA9;
+}
