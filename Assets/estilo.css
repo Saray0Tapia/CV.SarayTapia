@@ -18,3 +18,20 @@
     background-size: cover;
     background-position: center;
   }
+
+  #Mis-desafios .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+  }
+
+  #Mis-desafios{
+
+  background-color: #D8BFD8;
+  }
+
+  h3{
+    color:black;
+  }
